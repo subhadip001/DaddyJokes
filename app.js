@@ -18,9 +18,6 @@ const stopRotate = () => {
 
 const displayLoading = () => {
     loader.classList.add("loading")
-    setTimeout(() => {
-        loader.classList.remove("loading")
-    }, 5000);
 }
 const hideLoading = () => {
     loader.classList.remove("loading")
