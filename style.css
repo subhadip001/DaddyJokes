@@ -102,7 +102,7 @@
   width: 2rem;
   height: 2rem;
   border: 5px solid #f3f3f3;
-  border-top: 6px solid rgb(179, 103, 249);
+  border-top: 6px solid transparent;
   border-radius: 100%;
   margin: auto;
   position:absolute;
